@@ -1,6 +1,6 @@
 export default function HamburgerIcon() {
   return (
-    <button class="navbar-burger flex items-center text-blue-600 p-3">
+    <button class="navbar-burger flex items-center text-primary p-3">
       <svg
         class="block h-4 w-4 fill-current"
         viewBox="0 0 20 20"
@@ -12,3 +12,4 @@ export default function HamburgerIcon() {
     </button>
   );
 }
+//maybe remove primary

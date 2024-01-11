@@ -1,6 +1,6 @@
 export default function NavDivider() {
   return (
-    <li class="text-gray-300">
+    <li class="text-primary">
       <svg
         xmlns="http://www.w3.org/2000/svg"
         fill="none"

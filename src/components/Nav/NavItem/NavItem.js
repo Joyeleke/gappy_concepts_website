@@ -1,7 +1,7 @@
 //add nav link
 export default function NavItem({ size, text }) {
-  const commonClasses = `text-sm text-gray-400 hover:text-gray-500`;
-  const defaultClasses = `block p-4 text-sm font-semibold text-gray-400 hover:bg-blue-50 hover:text-blue-600 rounded`;
+  const commonClasses = `text-base font-bold hover:border-2 border-primary rounded-xl p-2`;
+  const defaultClasses = `block p-4 text-sm font-semibold`;
 
   return (
     <li className={size === "large" ? "" : "mb-1"}>
@@ -14,3 +14,5 @@ export default function NavItem({ size, text }) {
     </li>
   );
 }
+
+//change color maybe of fonts?
