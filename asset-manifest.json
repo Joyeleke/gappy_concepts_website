@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gappy_concepts_website/static/css/main.e2e599c9.css",
+    "main.js": "/gappy_concepts_website/static/js/main.4cda1c18.js",
+    "static/js/787.eccdc9f3.chunk.js": "/gappy_concepts_website/static/js/787.eccdc9f3.chunk.js",
+    "static/media/i5.jpg": "/gappy_concepts_website/static/media/i5.f53182459fd553090614.jpg",
+    "static/media/i1.jpg": "/gappy_concepts_website/static/media/i1.3b5ec0706901de9f1d64.jpg",
+    "static/media/i2.jpg": "/gappy_concepts_website/static/media/i2.1f529952f8eeccbf0317.jpg",
+    "static/media/i4.jpg": "/gappy_concepts_website/static/media/i4.4728db11056853a7bd63.jpg",
+    "static/media/i3.jpg": "/gappy_concepts_website/static/media/i3.b5ad9b0b378d0854bc2a.jpg",
+    "static/media/i6.jpg": "/gappy_concepts_website/static/media/i6.226ee023924d08d197ec.jpg",
+    "static/media/logo.png": "/gappy_concepts_website/static/media/logo.9a32c8e16b91244c5745.png",
+    "index.html": "/gappy_concepts_website/index.html",
+    "main.e2e599c9.css.map": "/gappy_concepts_website/static/css/main.e2e599c9.css.map",
+    "main.4cda1c18.js.map": "/gappy_concepts_website/static/js/main.4cda1c18.js.map",
+    "787.eccdc9f3.chunk.js.map": "/gappy_concepts_website/static/js/787.eccdc9f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2e599c9.css",
+    "static/js/main.4cda1c18.js"
+  ]
+}
